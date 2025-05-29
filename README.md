@@ -1,4 +1,4 @@
-# Mini Imperative Language Compiler
+# Compilador-Intérprete de Lenguaje Imperativo
 
 Este proyecto implementa un **compilador-intérprete** para un mini-lenguaje imperativo en Java. El lenguaje soporta:
 
