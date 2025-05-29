@@ -57,8 +57,6 @@ compliador/
 │  ├─ count_loop.mini
 │  ├─ factorial.mini
 │  └─ fibonacci.mini
-├─ prog.mini            # Script de prueba por defecto
-├─ .gitignore
 └─ README.md
 ```
 
@@ -82,12 +80,6 @@ javac -d bin src/compiler/*.java
 ---
 
 ## Ejecución
-
-### Ejecutar el script por defecto (`prog.mini`):
-
-```bash
-java -cp bin compiler.Interpreter
-```
 
 ### Ejecutar un ejemplo específico:
 
