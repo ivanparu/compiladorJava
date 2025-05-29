@@ -1,5 +1,12 @@
 # Compilador-Intérprete de Lenguaje Imperativo
 
+
+### Miembros: 
+- **Iván Parunov**
+- **Fernando Unías**
+
+---
+
 Este proyecto implementa un **compilador-intérprete** para un mini-lenguaje imperativo en Java. El lenguaje soporta:
 
 - **Asignaciones**: `x = expr;`
