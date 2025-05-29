@@ -74,7 +74,7 @@ En la raíz del proyecto (donde esté `src/`), ejecuta los siguientes comandos e
 
 ```bash
 mkdir -p bin
-javac -d bin src/compiler/*.java
+javac -d bin compiler/*.java
 ```
 
 ---

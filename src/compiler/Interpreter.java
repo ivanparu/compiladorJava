@@ -4,6 +4,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
 
+/*Clase principal que ejecuta el programa. 
+Lee el archivo fuente, tokeniza el contenido, lo analiza y ejecuta las instrucciones.
+*/
+
 public class Interpreter {
     public static void main(String[] args) throws Exception {
         String file = (args.length > 0) ? args[0] : "prog.mini";
